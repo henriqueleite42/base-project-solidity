@@ -106,5 +106,5 @@
 	"todo-tree.tree.showScanModeButton": false,
 
 	// Spell Checker
-	"cSpell.words": ["techmmunity"]
+	"cSpell.words": ["nomiclabs", "techmmunity", "typechain"]
 }
